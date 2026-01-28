@@ -1,0 +1,10 @@
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\bin\Debug\LD400P_ONOFF.exe.config
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\bin\Debug\LD400P_ONOFF.exe
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\bin\Debug\LD400P_ONOFF.pdb
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.csproj.AssemblyReference.cache
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.Form1.resources
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.Properties.Resources.resources
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.csproj.GenerateResource.cache
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.csproj.CoreCompileInputs.cache
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.exe
+C:\Users\pweber\source\repos\LD400P_ONOFF\LD400P_ONOFF\obj\Debug\LD400P_ONOFF.pdb
